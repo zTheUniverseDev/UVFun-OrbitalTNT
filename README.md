@@ -2,7 +2,7 @@
 **ModPE/Script para mundos compatibles con el cliente Toolbox**
 
 # Introduccion
-OrbitalTNT pertenece al proyecto EV Fun derivado a el contenido nulo e inexistente de ModPEs de la comunidad de mcpe 0.15.10 legacy actual. Este ModPE incorpora el comando /anillo a su mundo y una caña de pescar que lanza tnt, caracteristicas las cuales los mods tradicionales no incluyen desde 2018. Este mod tiene la calidad que la comunidad de consumidores y creadores de contenido de la version 0.15.10 legacy realmente merecen.
+OrbitalTNT pertenece al proyecto UV Fun derivado a el contenido nulo e inexistente de ModPEs de la comunidad de mcpe 0.15.10 legacy actual. Este ModPE incorpora el comando /anillo a su mundo y una caña de pescar que lanza tnt, caracteristicas las cuales los mods tradicionales no incluyen desde 2018. Este mod tiene la calidad que la comunidad de consumidores y creadores de contenido de la version 0.15.10 legacy realmente merecen.
 
 UV Fun es un proyecto activo potenciado principalmente por zTheUnxversePM2_ con objetivo de distribuir ModPEs seguros, sin backdoors y bugs y alta calidad para nuestros usuarios ya que la estabilidad de los pocos ModPEs tradicionales deja mucho que desear, por eso le recomendamos seguir usando UV Fun para divertirse en sus mundos en partidas LAN.
 
